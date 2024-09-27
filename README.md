@@ -1,0 +1,1 @@
+#Isto nem se encaixa como projéto, pois é apenas a experiência de criar pela primeira vez um modelo de ML e vêlo funcionando
